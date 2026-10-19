@@ -1,20 +1,18 @@
 # decoded concepts
 
-ten design directions for the decoded podcast website (decodedpodcast.vercel.app), built as static html/css concepts over the site's real public content.
+ten standalone website concepts for [decodedpodcast.vercel.app](https://decodedpodcast.vercel.app), each a genuinely different structure over the same real content. built by [evangeline-instinct](https://github.com/evangeline-instinct) as design directions, not production code.
 
-each folder is a self-contained concept:
+live demos (github pages): https://evangeline-instinct.github.io/decoded-concepts/
 
-- `broadsheet/` — newspaper editorial: serif type, thin rules, ink on paper
-- `brutalist/` — raw brutalism: thick borders, acid yellow, offset shadows
-- `nocturne/` — dark cinematic: amber on near-black, garamond display
-- `swiss/` — international typographic style: strict grid, numbered sections, red accents
-- `terminal/` — green-on-black console with ascii and shell motifs
-- `pop/` — playful sticker-book neubrutalism, bright blocks and badges
-- `nordic/` — quiet minimalism: hairlines, whitespace, sage accents
-- `aurora/` — glassmorphism over an indigo gradient field
-- `riso/` — retro risograph print: cream, burnt orange, teal, grain
-- `scholar/` — academic journal: small caps, double rules, ivory pages
+1. **broadsheet** - multi-page newspaper (front page, episodes, guests, about)
+2. **brutalist** - acid long-page with a fixed left sidebar, numbers first
+3. **nocturne** - dark cinematic one-pager with a full-screen overlay menu
+4. **swiss** - strict grid with a numbered index (01 about ... 06 subscribe)
+5. **terminal** - the whole site as a command-line session
+6. **pop** - sticker-board hub with subpages
+7. **nordic** - quiet one-pager with a right-side dot nav
+8. **aurora** - glass panels with a floating bottom dock
+9. **riso** - risograph zine, multi-page "issue 07"
+10. **scholar** - academic journal with a table of contents
 
-open any `<style>/index.html` in a browser to view. shared images live in `assets/`. full-page desktop and mobile screenshots of each concept are in `shots/`.
-
-concepts only — not deployed, and the live site is untouched.
+each site is plain html/css with shared images in `assets/`. screenshots in `shots/` (desktop + mobile).
