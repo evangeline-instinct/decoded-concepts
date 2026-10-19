@@ -1,6 +1,6 @@
 # decoded concepts
 
-ten standalone website concepts for [decodedpodcast.vercel.app](https://decodedpodcast.vercel.app), each a genuinely different structure over the same real content. built by [evangeline-instinct](https://github.com/evangeline-instinct) as design directions, not production code.
+eleven standalone website concepts for [decodedpodcast.vercel.app](https://decodedpodcast.vercel.app), each a genuinely different structure over the same real content. built by [evangeline-instinct](https://github.com/evangeline-instinct) as design directions, not production code.
 
 live demos (github pages): https://evangeline-instinct.github.io/decoded-concepts/
 
@@ -14,5 +14,6 @@ live demos (github pages): https://evangeline-instinct.github.io/decoded-concept
 8. **aurora** - glass panels with a floating bottom dock
 9. **riso** - risograph zine, multi-page "issue 07"
 10. **scholar** - academic journal with a table of contents
+11. **kindred** - warm nonprofit-style layout (purple + gold, ribbon underline, hotspot photo, stat wall)
 
 each site is plain html/css with shared images in `assets/`. screenshots in `shots/` (desktop + mobile).
